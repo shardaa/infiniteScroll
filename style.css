@@ -17,6 +17,11 @@ h1 {
   font-size: 2.5rem;
 }
 
+.page-header {
+  position:sticky;
+  top:0;
+  background-color: #fff
+}
 .loader {
   position:fixed;
   top: 0;
